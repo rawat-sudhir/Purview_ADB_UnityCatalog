@@ -1,4 +1,4 @@
-# Setting Up Azure Databricks Unity Catalog Configuration in Microsoft Purview
+# Setting Up Azure Databricks Unity Catalog Configuration for Microsoft Purview
 
 Azure Databricks and Microsoft Purview are powerful tools for data governance and analytics in the cloud. By integrating Unity Catalog with Microsoft Purview, you can ensure seamless data discovery, lineage tracking, and compliance management for your data assets.
 
