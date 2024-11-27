@@ -27,7 +27,7 @@ In this blog, we’ll walk through the process of setting up the Azure Databrick
 
 ## Video Walkthrough  
 
-To make this process even simpler, I’ve created a step-by-step video tutorial demonstrating the configuration. You can find the video [here](./video/ADBUCinMicrosoftPurview.mp4).
+To make this process even simpler, I’ve created a step-by-step video tutorial demonstrating the configuration. You can find the video [![Watch the video](./images/purviewuc.png)](https://github.com/rawat-sudhir/Purview_ADB_UnityCatalog/blob/main/video/ADBUCinMicrosoftPurview.mp4).
 
 By following these steps, you can harness the full potential of Azure Databricks and Microsoft Purview to ensure your data is secure, discoverable, and well-governed.
 
